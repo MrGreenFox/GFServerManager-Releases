@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0",
-  "channel": "stable",
-  "packageUrl": "https://github.com/MrGreenFox/GFServerManager-Releases/releases/download/v1.0.0/GFServerManager-1.0.0-win-x64.zip",
-  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-  "changelog": "Initial placeholder. Publish the first real release before enabling production updates.",
-  "mandatory": false,
-  "minimumUpdaterVersion": "1.0.0"
+    "version":  "1.0.6",
+    "channel":  "stable",
+    "packageUrl":  "https://github.com/MrGreenFox/GFServerManager-Releases/releases/download/v1.0.6/GFServerManager-1.0.6-win-x64.zip",
+    "sha256":  "d914371817ca52b7f2f59e3eef8f6a5b2b6bf2a657d524ccf33abdec2e07f3fb",
+    "changelog":  "Автообновление",
+    "mandatory":  false,
+    "minimumUpdaterVersion":  "1.0.0"
 }
