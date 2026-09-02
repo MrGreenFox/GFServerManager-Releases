@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "channel": "experimental",
+  "packageUrl": "https://github.com/MrGreenFox/GFServerManager-Releases/releases/download/v1.0.0/GFServerManager-1.0.0-win-x64.zip",
+  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "changelog": "Initial placeholder. Publish the first real experimental release before using this channel.",
+  "mandatory": false,
+  "minimumUpdaterVersion": "1.0.0"
+}
