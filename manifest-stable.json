@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.6",
+    "version":  "1.0.7",
     "channel":  "stable",
-    "packageUrl":  "https://github.com/MrGreenFox/GFServerManager-Releases/releases/download/v1.0.6/GFServerManager-1.0.6-win-x64.zip",
-    "sha256":  "d914371817ca52b7f2f59e3eef8f6a5b2b6bf2a657d524ccf33abdec2e07f3fb",
-    "changelog":  "Автообновление",
+    "packageUrl":  "https://github.com/MrGreenFox/GFServerManager-Releases/releases/download/v1.0.7/GFServerManager-1.0.7-win-x64.zip",
+    "sha256":  "f3dba15c72f12fd53ce090c1f4404e638c46fd4daada781bcbdcc4d9696cff3b",
+    "changelog":  "Переделано хранение модов на отдельную внутреннюю общую папку. На каждый сервер теперь будет автоматически прописываться список и путь к модам. Это защитит память от захламления и постоянно новых скачиваний модов. Серверные моды так же будут храниться отдельно в общей папке. Добавлен админ мод.",
     "mandatory":  false,
     "minimumUpdaterVersion":  "1.0.0"
 }
