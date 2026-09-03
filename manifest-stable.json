@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.9",
+    "version":  "1.0.10",
     "channel":  "stable",
-    "packageUrl":  "https://github.com/MrGreenFox/GFServerManager-Releases/releases/download/v1.0.9/GFServerManager-1.0.9-win-x64.zip",
-    "sha256":  "2dbb11250f7c9084bc3a8327f4e9ace52ac2784a71122836d6091fc4c9c2687f",
-    "changelog":  "Допил админки",
+    "packageUrl":  "https://github.com/MrGreenFox/GFServerManager-Releases/releases/download/v1.0.10/GFServerManager-1.0.10-win-x64.zip",
+    "sha256":  "b30586e5e3e7c4f47a77a1506dd9ad4a8c178e9371ca5928768ddd1930afdd43",
+    "changelog":  "V-1.0.10 Обновило функционал админки на более расширеный.",
     "mandatory":  false,
     "minimumUpdaterVersion":  "1.0.0"
 }
