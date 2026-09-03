@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.14",
+    "version":  "1.0.15",
     "channel":  "stable",
-    "packageUrl":  "https://github.com/MrGreenFox/GFServerManager-Releases/releases/download/v1.0.14/GFServerManager-1.0.14-win-x64.zip",
-    "sha256":  "ddc6023a08dd20c8a7bef5b9da41fa8b089a7f0a5f1c75cdc9aa08a80e8886f0",
-    "changelog":  "Лог ошибок",
+    "packageUrl":  "https://github.com/MrGreenFox/GFServerManager-Releases/releases/download/v1.0.15/GFServerManager-1.0.15-win-x64.zip",
+    "sha256":  "eefe14abc8e05b46da02025532569acca9487b94851b7ef945dd924bae16a30c",
+    "changelog":  "Настройка пути прелоад файлов.",
     "mandatory":  false,
     "minimumUpdaterVersion":  "1.0.0"
 }
