@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.11",
+    "version":  "1.0.12",
     "channel":  "stable",
-    "packageUrl":  "https://github.com/MrGreenFox/GFServerManager-Releases/releases/download/v1.0.11/GFServerManager-1.0.11-win-x64.zip",
-    "sha256":  "200c693953f49b3732e3e85658c9e16d181a40f709dd8b8bbe06cfbbe3e9e776",
-    "changelog":  "HunterEye",
+    "packageUrl":  "https://github.com/MrGreenFox/GFServerManager-Releases/releases/download/v1.0.12/GFServerManager-1.0.12-win-x64.zip",
+    "sha256":  "c80f16a41ea75ece054fe9f61e54a174b64077cb177b963acce5cc4d72eaa1f6",
+    "changelog":  "Обновление функционала выбора стартового лута и добавление Y координаты в спавнпоинтах.",
     "mandatory":  false,
     "minimumUpdaterVersion":  "1.0.0"
 }
