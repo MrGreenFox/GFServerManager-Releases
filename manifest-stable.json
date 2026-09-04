@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.15",
+    "version":  "1.0.16",
     "channel":  "stable",
-    "packageUrl":  "https://github.com/MrGreenFox/GFServerManager-Releases/releases/download/v1.0.15/GFServerManager-1.0.15-win-x64.zip",
-    "sha256":  "eefe14abc8e05b46da02025532569acca9487b94851b7ef945dd924bae16a30c",
-    "changelog":  "Настройка пути прелоад файлов.",
+    "packageUrl":  "https://github.com/MrGreenFox/GFServerManager-Releases/releases/download/v1.0.16/GFServerManager-1.0.16-win-x64.zip",
+    "sha256":  "0cddb7d28ce7f8fcf79351c708f41db1b4d4f597c71567ca92a5e463350ad17a",
+    "changelog":  "Переработка рестартов. Добавлены блокировка входа и кик всех игроков.",
     "mandatory":  false,
     "minimumUpdaterVersion":  "1.0.0"
 }
