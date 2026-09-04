@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.16",
+    "version":  "1.1.0",
     "channel":  "stable",
-    "packageUrl":  "https://github.com/MrGreenFox/GFServerManager-Releases/releases/download/v1.0.16/GFServerManager-1.0.16-win-x64.zip",
-    "sha256":  "0cddb7d28ce7f8fcf79351c708f41db1b4d4f597c71567ca92a5e463350ad17a",
-    "changelog":  "Переработка рестартов. Добавлены блокировка входа и кик всех игроков.",
+    "packageUrl":  "https://github.com/MrGreenFox/GFServerManager-Releases/releases/download/v1.1.0/GFServerManager-1.1.0-win-x64.zip",
+    "sha256":  "dae6dec0284b17549c7d37cd4b0d86dc9924a8a0ad369d884724f44572930e83",
+    "changelog":  "Переделано хранение .dll файлов. В ДС будет закинут батник , его положите в папку с установленной программой и запустите, он удалит все старые ненужные файлы.",
     "mandatory":  false,
     "minimumUpdaterVersion":  "1.0.0"
 }
