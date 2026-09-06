@@ -1,9 +1,9 @@
 {
-    "version":  "1.1.0",
+    "version":  "1.1.1",
     "channel":  "stable",
-    "packageUrl":  "https://github.com/MrGreenFox/GFServerManager-Releases/releases/download/v1.1.0/GFServerManager-1.1.0-win-x64.zip",
-    "sha256":  "dae6dec0284b17549c7d37cd4b0d86dc9924a8a0ad369d884724f44572930e83",
-    "changelog":  "Переделано хранение .dll файлов. В ДС будет закинут батник , его положите в папку с установленной программой и запустите, он удалит все старые ненужные файлы.",
+    "packageUrl":  "https://github.com/MrGreenFox/GFServerManager-Releases/releases/download/v1.1.1/GFServerManager-1.1.1-win-x64.zip",
+    "sha256":  "77293c0386069399234a05a6838dd7165bcafeb95c09b68ae8c12167d89ee213",
+    "changelog":  "v1.1.1, инфа в ДС",
     "mandatory":  false,
     "minimumUpdaterVersion":  "1.0.0"
 }
