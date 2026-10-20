@@ -1,9 +1,9 @@
 {
-    "version":  "1.1.2",
-    "channel":  "stable",
-    "packageUrl":  "https://github.com/MrGreenFox/GFServerManager-Releases/releases/download/v1.1.2/GFServerManager-1.1.2-win-x64.zip",
-    "sha256":  "11e349ca9fc1a7ea85c0dcafb690b6573cd55f882ff6b0f9e2d6993dc3ed806c",
-    "changelog":  "GF Server Manager 1.1.2",
-    "mandatory":  false,
-    "minimumUpdaterVersion":  "1.0.0"
+  "version": "1.3.1",
+  "channel": "stable",
+  "packageUrl": "https://github.com/MrGreenFox/GFServerManager-Releases/releases/download/v1.3.1/GFServerManager-1.3.1-win-x64.zip",
+  "sha256": "f8a5004b473fa035c54d8aeeb15b7c1c75ef69fb30d1508731826ca90a9a3b24",
+  "changelog": "Новое оформление меню и зелёный логотип GF. Автоматическая проверка Workshop-модов, обновление с плавным рестартом и поэтапными предупреждениями игрокам. Исправлены сохранение данных, резервные копии и восстановление при ошибке обновления. Для автообновления модов включите его отдельно в Планировщике; заранее авторизуйте SteamCMD. Уведомления в игре требуют GFAdminBridge.",
+  "mandatory": false,
+  "minimumUpdaterVersion": "1.0.0"
 }
