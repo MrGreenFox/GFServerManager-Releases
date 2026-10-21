@@ -1,9 +1,9 @@
 {
-  "version": "1.4.1",
+  "version": "1.4.2",
   "channel": "stable",
-  "packageUrl": "https://github.com/MrGreenFox/GFServerManager-Releases/releases/download/v1.4.1/GFServerManager-1.4.1-win-x64.zip",
-  "sha256": "9640a4ff63474b814b9bc4c2e6efd893c4a0eb78422604be7f2fa8364dddae40",
-  "changelog": "Исправлена кодировка русских надписей при создании тестовой копии. Добавлено отдельное окно прогресса с этапом, числом файлов и безопасной отменой. Основное меню больше не бледнеет во время копирования. Сохранены отдельные библиотеки модов и прежние функции. Прошли 44 проверки тестовой копии и интерфейса и 76 регрессионных проверок. Реальная загрузка Steam и запуск DayZ не выполнялись.",
+  "packageUrl": "https://github.com/MrGreenFox/GFServerManager-Releases/releases/download/v1.4.2/GFServerManager-1.4.2-win-x64.zip",
+  "sha256": "023b7a4803f552be5ad88ac59eb893630e1812eb0d1c94bd3a076f54e550725d",
+  "changelog": "Упрощено удаление сервера и профиля: обычное подтверждение с кнопками «Да / Нет», без ввода точного имени сервера. По умолчанию выбрано «Нет». Сборка и структура пакета проверены.",
   "mandatory": false,
   "minimumUpdaterVersion": "1.0.0"
 }
